@@ -18,6 +18,8 @@
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
+  list-style: none;
+  padding: 0;
 }
 
 .post-card {
@@ -97,6 +99,8 @@
   flex-wrap: wrap; 
   list-style: none; 
   margin-bottom: 1rem; 
+  list-style: none;
+  padding: 0;
 }
 
 .cat-option { 
